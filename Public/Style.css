@@ -1,0 +1,18 @@
+h1 {
+  text-align:center;
+  background-color:#7661a5;
+  color:#76daff;
+}
+
+.wrapper{
+  display:inline-flex;
+}
+
+.main-text{
+  max-width: 60%;
+  
+}
+
+.pic{
+  max-width: 60%;
+}
